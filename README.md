@@ -1,0 +1,4 @@
+- Hi, I’m @ACatFromPoland
+- I’m interested in Networking, Physics and Rendering
+- I’m currently learning C++
+- How to reach me -> Discord ->  Adrian#5937
